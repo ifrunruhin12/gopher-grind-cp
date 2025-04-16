@@ -106,4 +106,4 @@ Keep a shortcut/snippet to these templates in your editor (like Neovim snippets,
 
 ---
 
-Happy Hacking! 🚀💻
+Happy Coding! 🚀💻
