@@ -1,70 +1,69 @@
 # 🌍 Golang Competitive Programming Solutions
 
-Welcome to my multi-platform **Golang CP Solutions** repo!  
-This is my journey of solving algorithmic problems across platforms like **Codeforces, AtCoder, LeetCode, CSES**, and more—using pure Go 🐹⚔️
+Welcome to my personal archive of competitive programming problems — all solved in pure **Golang** 🐹⚔️.  
+This repo is organized by **problem type** and **algorithmic approach**, not by platform. Whether it's from Codeforces, AtCoder, LeetCode, or CSES, if it made me think — it's in here.
 
 ---
 
 ## 💡 Why Golang?
 
-- 🔥 Fast compilation and execution
-- 🧠 Great for algorithmic thinking
-- 📦 Built-in support for maps, slices, etc.
-- 🕹️ Excellent control over memory
-
-
-## 🔥 Platforms Covered
-
-- [📦 Codeforces](./codeforces/README.md) – Organized by problem rating
-- [🔗 AtCoder](./atcoder/README.md) – ABC contests categorized by difficulty
-- [🧠 LeetCode](./leetcode/README.md) – Grouped by easy/medium/hard
-- [📘 CSES](./cses/README.md) – Structured by topic
+- ⚡ Blazingly fast execution and compilation
+- 🧠 Forces clean, performant logic
+- 🛠️ Powerful standard library (maps, slices, etc.)
+- 👾 Great for both systems-level thinking and high-level strategy
 
 ---
 
-## 🗂️ Repository Layout
+## 🗂️ Structure
 
-See the full folder breakdown in [Structure.md](./Structure.md)
+All problems are inside the `CP-problems/` directory, categorized by topic:
+```
+CP-problems/
+ ├── implementation/    
+ ├── greedy/ 
+ ├── binary-search/ 
+ ├── dfs-bfs/ 
+ ├── math/ 
+ ├── dp/ 
+ └── ...more coming
+```
 
+Each subfolder contains `.go` files named after the problem + optional metadata in comments.
 
 ---
 
 ## ✨ Features
 
-- 📊 Categorized by **platform**, **difficulty**, and **topic**
-- ⚡ Fast Go I/O templates for handling large test cases
-- ✅ Clean, readable code with problem name in each file
-- 🧠 Designed to scale as my CP journey grows
+- 🗃️ Topic-first organization (greedy, DP, graphs, etc.)
+- ⚡ Fast Go I/O templates for large inputs
+- 🧼 Clean and idiomatic Golang
+- 📈 Designed to grow with my CP grind
 
 ---
 
-## 🚀 Goals
+## 🛠️ My CP Setup
 
-- Reach `Expert`+ on Codeforces using **only Golang**
-- Smash ABC contests on AtCoder
-- Grind 100+ LeetCode problems
-- Complete full CSES Problem Set
-- Build my own Go CP templates and share them
+- 💻 OS: Arch Linux + Hyprland
+- ⌨️ Editor: Neovim + Packer + Kitty Terminal
+- 🔧 Language: Go 1.2x+
+- 🚀 Tools: Custom templates, macros, and sweaty keyboarding
 
 ---
 
-## 🧰 My Environment
+## 🎯 Goals
 
-- 💻OS: Arch Linux / Hyprland
-- 💻Editor: Neovim + Packer
-- </> Terminal: Kitty
-- 🧰Language: Golang 1.2x+
-- ⚙️ CP Setup: Custom I/O templates, keyboard macros, and love for performance.
+- 📈 Reach Expert+ on Codeforces using only Golang
+- 👾 Crush ABCs on AtCoder
+- 🧠 Solve 100+ diverse problems by topic
+- 🧰 Refine reusable templates for fast I/O and logic patterns
 
 ---
 
 ## 🤝 Contribute / Connect
 
-Wanna collab or suggest structure changes? Open an issue or PR!  
-Hit me up on [Codeforces](https://codeforces.com/profile/ifrunruhin12)
+Wanna suggest a better folder structure? Or just vibe with the setup?  
+Open an issue, drop a PR, or connect with me on [Codeforces](https://codeforces.com/profile/ifrunruhin12)
 
 ---
 
-_“The grind doesn’t stop until you do.”_ 🐉  
-
-
+> _“The grind doesn’t stop until you do.”_ 🚀
