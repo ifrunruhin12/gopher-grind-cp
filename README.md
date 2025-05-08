@@ -45,7 +45,7 @@ Each subfolder contains `.go` files named after the problem + optional metadata 
 
 - 💻 OS: Arch Linux + Hyprland
 - ⌨️ Editor: Neovim + Packer + Kitty Terminal
-- 🔧 Language: Go 1.2x+
+- 🔧 Language: Go 1.24.3
 - 🚀 Tools: Custom templates, macros, and sweaty keyboarding
 
 ---
