@@ -1,3 +1,9 @@
+// https://leetcode.com/problems/longest-palindromic-substring/
+
+package main
+
+import "fmt"
+
 func longestPalindrome(s string) string {
     if len(s) < 1 {
         return ""
@@ -34,3 +40,7 @@ func max(a, b int) int {
     return b
 }
 
+
+func main() {
+	fmt.Println(longestPalindrome("babad"))
+}
