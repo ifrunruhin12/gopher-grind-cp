@@ -1,6 +1,8 @@
 /*
 https://codeforces.com/contest/381/problem/A
 */
+//two pointers
+
 package main
 
 import (

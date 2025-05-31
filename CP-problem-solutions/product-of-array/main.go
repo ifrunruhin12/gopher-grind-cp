@@ -1,4 +1,6 @@
 //https://leetcode.com/problems/product-of-array-except-self/description/
+//Array
+//Prefix sum
 
 package main
 

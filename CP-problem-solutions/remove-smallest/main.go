@@ -1,6 +1,9 @@
 /*
 https://codeforces.com/contest/1399/problem/A
 */
+//Greedy
+//Sortings
+
 package main
 
 import (

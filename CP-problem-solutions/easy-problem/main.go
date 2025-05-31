@@ -1,4 +1,5 @@
 //https://codeforces.com/problemset/problem/2044/A
+//Math
 
 package main
 

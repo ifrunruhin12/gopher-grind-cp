@@ -1,4 +1,5 @@
 //https://atcoder.jp/contests/abc105/tasks/abc105_a?lang=en
+//Basic exercise
 
 package main
 

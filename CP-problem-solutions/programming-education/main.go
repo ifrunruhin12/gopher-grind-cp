@@ -1,4 +1,5 @@
 //https://atcoder.jp/contests/abc112/tasks/abc112_a?lang=en
+//Basic exercise
 
 package main
 

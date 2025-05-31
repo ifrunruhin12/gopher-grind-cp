@@ -1,4 +1,5 @@
 //https://atcoder.jp/contests/abc106/tasks/abc106_a?lang=en
+//Math
 
 package main
 

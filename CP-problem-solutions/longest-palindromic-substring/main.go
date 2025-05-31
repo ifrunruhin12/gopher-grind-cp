@@ -1,4 +1,7 @@
 // https://leetcode.com/problems/longest-palindromic-substring/
+//two pointers
+//DP
+//Strings
 
 package main
 

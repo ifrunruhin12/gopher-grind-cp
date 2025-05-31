@@ -1,4 +1,5 @@
 //https://atcoder.jp/contests/abc366/tasks/abc366_a?lang=en
+//Implementation
 
 package main
 

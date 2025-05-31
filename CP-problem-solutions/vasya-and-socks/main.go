@@ -1,4 +1,6 @@
 //https://codeforces.com/problemset/problem/460/A
+//Implementation
+//brute force
 
 package main
 

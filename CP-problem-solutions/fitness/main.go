@@ -1,4 +1,5 @@
 //https://www.codechef.com/problems/FIT
+//Math
 
 package main
 

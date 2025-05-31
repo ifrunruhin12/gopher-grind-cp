@@ -1,4 +1,6 @@
 //https://atcoder.jp/contests/abc102/tasks/abc102_a?lang=en
+//Math
+
 package main
 
 import "fmt"

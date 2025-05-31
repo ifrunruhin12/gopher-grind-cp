@@ -1,6 +1,8 @@
 /*
 https://codeforces.com/contest/785/problem/A
+Math
 */
+
 
 package main
 

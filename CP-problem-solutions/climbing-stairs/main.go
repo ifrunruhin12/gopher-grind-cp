@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/climbing-stairs/description/
+//Dynamic Programming
 
 package main
 

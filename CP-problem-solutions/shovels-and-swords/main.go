@@ -1,6 +1,10 @@
 /*
 https://codeforces.com/contest/1366/problem/A
 */
+//Binary search
+//greedy
+//math
+
 package main
 
 import (

@@ -1,6 +1,9 @@
 /*
 https://codeforces.com/contest/158/problem/B
 */
+//Greedy
+//Special Problem
+
 package main
 
 import (

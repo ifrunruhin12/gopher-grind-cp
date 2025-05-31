@@ -1,4 +1,5 @@
 //https://codeforces.com/contest/2109/problem/A
+//Implementation
 
 package main
 

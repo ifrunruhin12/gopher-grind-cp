@@ -1,7 +1,8 @@
 /*
 https://codeforces.com/contest/149/problem/A
 */
-
+//Greedy
+// Sorting
 
 
 package main

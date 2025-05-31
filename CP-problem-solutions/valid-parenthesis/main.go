@@ -1,5 +1,8 @@
 //https://leetcode.com/problems/valid-parentheses/description/
 
+//stack
+//string
+
 package main
 
 import "fmt"

@@ -1,4 +1,6 @@
 //https://leetcode.com/problems/maximum-subarray/description/
+//Divide and Conquere
+//DP
 
 package main
 

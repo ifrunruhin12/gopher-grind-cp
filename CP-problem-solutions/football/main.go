@@ -1,6 +1,7 @@
 /*
 https://codeforces.com/contest/96/problem/A
 */
+//Strings
 
 package main
 

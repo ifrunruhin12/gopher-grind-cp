@@ -1,5 +1,7 @@
 //https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
+//Dynamic Programming
+
 package main
 
 import "fmt"

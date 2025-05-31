@@ -1,4 +1,6 @@
 //https://codeforces.com/problemset/problem/546/A
+//Math
+
 package main
 
 import (

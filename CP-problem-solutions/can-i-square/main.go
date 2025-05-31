@@ -1,5 +1,7 @@
 //https://codeforces.com/problemset/problem/1915/C
 
+//Binary search
+
 package main
 
 import (

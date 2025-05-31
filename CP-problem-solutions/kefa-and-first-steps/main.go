@@ -1,6 +1,9 @@
 /*
 https://codeforces.com/contest/580/problem/A
 */
+//brute force
+//DP
+
 
 package main
 

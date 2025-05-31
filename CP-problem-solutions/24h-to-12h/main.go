@@ -1,4 +1,5 @@
 //https://codeforces.com/problemset/problem/1950/C
+//Math
 
 package main
 

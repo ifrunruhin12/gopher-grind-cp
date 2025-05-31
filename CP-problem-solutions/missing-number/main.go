@@ -1,4 +1,7 @@
 // https://leetcode.com/problems/missing-number/
+//Math
+//Binary search
+//Bit manipulation
 
 package main
 

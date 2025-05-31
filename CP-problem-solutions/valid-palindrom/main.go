@@ -1,4 +1,6 @@
 //https://leetcode.com/problems/valid-palindrome/description/
+//string
+//two-pointer
 
 package main
 

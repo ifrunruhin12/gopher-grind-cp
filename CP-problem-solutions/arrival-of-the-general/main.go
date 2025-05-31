@@ -1,6 +1,7 @@
 /*
 https://codeforces.com/contest/144/problem/A
 */
+//Math
 
 package main
 

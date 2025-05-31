@@ -1,6 +1,8 @@
 /*
 https://codeforces.com/contest/1690/problem/D
 */
+//Two-pointers
+
 package main
 
 import (

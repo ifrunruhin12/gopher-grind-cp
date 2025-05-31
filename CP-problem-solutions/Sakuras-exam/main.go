@@ -1,4 +1,7 @@
 //https://codeforces.com/problemset/problem/2008/A
+//brute force
+//math
+
 package main
 
 import "fmt"

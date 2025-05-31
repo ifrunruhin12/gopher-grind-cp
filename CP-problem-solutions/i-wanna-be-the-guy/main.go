@@ -1,6 +1,8 @@
 /*
 https://codeforces.com/contest/469/problem/A
 */
+//Greedy
+//Implementation
 
 package main
 

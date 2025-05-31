@@ -1,4 +1,6 @@
 //https://codeforces.com/problemset/problem/1709/A
+//Implementation
+//Greedy
 
 package main
 

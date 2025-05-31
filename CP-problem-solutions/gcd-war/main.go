@@ -1,4 +1,6 @@
 //https://codeforces.com/contest/2104/problem/D
+//Binary search
+//Number theory
 
 package main
 
